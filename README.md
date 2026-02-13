@@ -20,7 +20,7 @@ Sistema de inventario en Excel usando macros (VBA) para registrar y controlar en
 
 **Si Windows lo bloquea:**
 - Clic derecho al archivo → **Propiedades** → marcar **Desbloquear** → Aplicar → volver a abrir.
-- 
+
 ## Evidencia
 
 **Registro**
