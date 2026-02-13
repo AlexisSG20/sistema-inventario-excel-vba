@@ -20,7 +20,12 @@ Sistema de inventario en Excel usando macros (VBA) para registrar y controlar en
 
 **Si Windows lo bloquea:**
 - Clic derecho al archivo → **Propiedades** → marcar **Desbloquear** → Aplicar → volver a abrir.
-
+- 
 ## Evidencia
-- Registro: `docs/registro de materia prima.PNG`
-- Salida: `docs/registro de salida de materia prima.PNG`
+
+**Registro**
+![Registro](docs/registro-materia-prima.PNG)
+
+**Salida**
+![Salida](docs/registro-salida-materia-prima.PNG)
+
